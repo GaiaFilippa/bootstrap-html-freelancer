@@ -44,3 +44,11 @@ h3 {
     display: flex;
     margin: auto;
 }
+
+
+.bg-black-footer {
+    text-align: center;
+    background: black;
+    color: rgb(175, 175, 175);
+    padding: 30px;
+}
