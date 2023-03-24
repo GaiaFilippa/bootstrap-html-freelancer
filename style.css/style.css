@@ -52,3 +52,9 @@ h3 {
     color: rgb(175, 175, 175);
     padding: 30px;
 }
+
+.bg-aqua-footer-button {
+    padding-bottom: 50px;
+    text-align: center;
+    background: aqua;
+}
